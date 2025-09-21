@@ -59,7 +59,7 @@ $RECYCLE.BIN/
 *.lnk
 
 # Application specific
-npc.json
+# npc.json - Now included as essential character database
 new_friends.json
 font_settings.json
 MBB_errors.log

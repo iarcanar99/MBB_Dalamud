@@ -109,7 +109,7 @@ MBB_Dalamud/
 │   ├── MBB.py                    # Main launcher
 │   ├── *.py                      # Core modules
 │   ├── assets/                   # Images, fonts
-│   ├── npc_database_template.json # Character database template
+│   ├── npc.json                  # Character database (500+ FFXIV NPCs)
 │   └── .env.example              # API key template
 ├── dalamud-plugin/               # FFXIV Plugin
 │   └── DalamudMBBBridge/         # C# plugin source
