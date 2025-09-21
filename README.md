@@ -1,9 +1,15 @@
-# MBB Dalamud Bridge
+<div align="center">
+
+<img src="icon.png" alt="Magicite Babel Icon" width="128" height="128">
+
+# Magicite Babel - Dalamud Version
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Version](https://img.shields.io/badge/Version-1.4.10.4-blue.svg)](https://github.com/iarcanar99/MBB_Dalamud)
 [![FFXIV](https://img.shields.io/badge/FFXIV-Compatible-green.svg)](https://www.finalfantasyxiv.com/)
 [![Dalamud](https://img.shields.io/badge/Dalamud-Plugin-purple.svg)](https://github.com/goatcorp/Dalamud)
+
+</div>
 
 Real-time Thai translation system for Final Fantasy XIV using advanced text hook technology. Provides Netflix-quality translation with intelligent character database and seamless gameplay integration.
 
