@@ -16,7 +16,7 @@ Real-time Thai translation system for Final Fantasy XIV using advanced text hook
 ## ✨ Features
 
 - **🎯 Real-time Text Hook** - Direct game text capture, no OCR needed
-- **🧠 Smart Character Database** - Personality, gender, and terminology aware translation
+- **🧠 Smart Character Database** - Pre-loaded with 500+ FFXIV characters (personality, gender, relationships)
 - **🎨 Modern UI System** - Elegant interface with customizable themes
 - **⚡ High Performance** - Optimized for smooth gameplay experience
 - **🔧 Easy Setup** - Simple manual installation process
@@ -105,15 +105,17 @@ cd MBB_Dalamud
 
 ```
 MBB_Dalamud/
-├── python-app/              # Main Python application
-│   ├── MBB.py              # Main launcher
-│   ├── *.py                # Core modules
-│   ├── assets/             # Images, fonts
-│   └── .env.example        # API key template
-├── dalamud-plugin/         # FFXIV Plugin
-│   └── DalamudMBBBridge/   # C# plugin source
-├── README.md               # This file
-└── .gitignore             # Git exclusions
+├── python-app/                    # Main Python application
+│   ├── MBB.py                    # Main launcher
+│   ├── *.py                      # Core modules
+│   ├── assets/                   # Images, fonts
+│   ├── npc_database_template.json # Character database template
+│   └── .env.example              # API key template
+├── dalamud-plugin/               # FFXIV Plugin
+│   └── DalamudMBBBridge/         # C# plugin source
+├── icon.png                      # Program icon
+├── README.md                     # This file
+└── .gitignore                   # Git exclusions
 ```
 
 ## 🎮 Usage
@@ -128,6 +130,7 @@ MBB_Dalamud/
 - **Theme customization** - Multiple color schemes
 - **Multi-area support** - A/B/C content areas
 - **Smart text filtering** - Intelligent duplicate prevention
+- **Character Database** - Comprehensive FFXIV NPC database with relationships and context
 
 ## 🛠️ Troubleshooting
 
