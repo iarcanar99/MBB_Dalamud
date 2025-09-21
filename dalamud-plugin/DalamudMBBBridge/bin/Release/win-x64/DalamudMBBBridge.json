@@ -1,0 +1,25 @@
+{
+  "Author": "MBB Bridge Team",
+  "Name": "Mgicite Babel v1.4.10.4 Thai Version by iarcanar",
+  "InternalName": "DalamudMBBBridge",
+  "AssemblyVersion": "1.4.10.4",
+  "Description": "Advanced real-time translation system with customizable character database (personality, gender, status, terminology). Delivers Netflix-quality translation through FFXIV's rich storytelling. Features elegant UI with auto-show/hide, full customization (size, colors), and seamless gameplay integration. Commands: /mbb (main UI), /mbb launch (start translator).",
+  "ApplicableVersion": "any",
+  "RepoUrl": "",
+  "Tags": [
+    "Translation",
+    "Text Hook",
+    "Bridge",
+    "MBB",
+    "Thai",
+    "Utility"
+  ],
+  "DalamudApiLevel": 13,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": true,
+  "LoadPriority": 0,
+  "IconUrl": "",
+  "Punchline": "Real-time FFXIV translation with advanced character database and Netflix-quality localization",
+  "AcceptsFeedback": true
+}

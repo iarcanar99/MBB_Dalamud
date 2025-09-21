@@ -1,0 +1,30 @@
+C:\Yariman Babel\MbbDalamud_bridge\DalamudMBBBridge\bin\Release\win-x64\DalamudMBBBridge.deps.json
+C:\Yariman Babel\MbbDalamud_bridge\DalamudMBBBridge\bin\Release\win-x64\DalamudMBBBridge.dll
+C:\Yariman Babel\MbbDalamud_bridge\DalamudMBBBridge\obj\Release\win-x64\DalamudMBBBridge.csproj.AssemblyReference.cache
+C:\Yariman Babel\MbbDalamud_bridge\DalamudMBBBridge\obj\Release\win-x64\DalamudMBBBridge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Yariman Babel\MbbDalamud_bridge\DalamudMBBBridge\obj\Release\win-x64\DalamudMBBBridge.AssemblyInfoInputs.cache
+C:\Yariman Babel\MbbDalamud_bridge\DalamudMBBBridge\obj\Release\win-x64\DalamudMBBBridge.AssemblyInfo.cs
+C:\Yariman Babel\MbbDalamud_bridge\DalamudMBBBridge\obj\Release\win-x64\DalamudMBBBridge.csproj.CoreCompileInputs.cache
+C:\Yariman Babel\MbbDalamud_bridge\DalamudMBBBridge\obj\Release\win-x64\DalamudMBBBridge.dll
+C:\Users\arcan\Documents\DalamudMBBBridge_PreReceiveEvent_Build\DalamudMBBBridge.deps.json
+C:\Users\arcan\Documents\DalamudMBBBridge_PreReceiveEvent_Build\DalamudMBBBridge.dll
+C:\Yariman Babel\MbbDalamud_bridge\DalamudMBBBridge\bin\Release\win-x64\DalamudMBBBridge.json
+C:\Yariman Babel\MbbDalamud_bridge\DalamudMBBBridge\bin\Release\win-x64\icon.png
+C:\Users\arcan\Documents\DalamudMBBBridge_PreReceiveEvent_Build\icon.png
+C:\Users\arcan\Documents\DalamudMBBBridge_PreReceiveEvent_Build\DalamudMBBBridge.json
+C:\Yariman_Babel\MbbDalamud_bridge\DalamudMBBBridge\obj\Release\win-x64\DalamudMBBBridge.csproj.AssemblyReference.cache
+C:\Yariman_Babel\MbbDalamud_bridge\DalamudMBBBridge\obj\Release\win-x64\DalamudMBBBridge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Yariman_Babel\MbbDalamud_bridge\DalamudMBBBridge\obj\Release\win-x64\DalamudMBBBridge.AssemblyInfoInputs.cache
+C:\Yariman_Babel\MbbDalamud_bridge\DalamudMBBBridge\obj\Release\win-x64\DalamudMBBBridge.AssemblyInfo.cs
+C:\Yariman_Babel\MbbDalamud_bridge\DalamudMBBBridge\obj\Release\win-x64\DalamudMBBBridge.csproj.CoreCompileInputs.cache
+C:\Yariman_Babel\MbbDalamud_bridge\DalamudMBBBridge\obj\Release\win-x64\DalamudMBBBridge.dll
+C:\Yariman_Babel\MbbDalamud_bridge\DalamudMBBBridge\bin\Release\win-x64\DalamudMBBBridge.json
+C:\Yariman_Babel\MbbDalamud_bridge\DalamudMBBBridge\bin\Release\win-x64\icon.png
+C:\Yariman_Babel\MbbDalamud_bridge\DalamudMBBBridge\bin\Release\win-x64\DalamudMBBBridge.deps.json
+C:\Yariman_Babel\MbbDalamud_bridge\DalamudMBBBridge\bin\Release\win-x64\DalamudMBBBridge.dll
+C:\Yariman_Babel\MbbDalamud_bridge\DalamudMBBBridge\obj\Release\win-x64\DalamudM.70F9266A.Up2Date
+C:\Users\arcan\Documents\DalamudMBBBridge_PreReceiveEvent_Build\icon_512x512.png
+C:\Yariman_Babel\MbbDalamud_bridge\DalamudMBBBridge\bin\Release\win-x64\icon_512x512.png
+C:\Yariman_Babel\MbbDalamud_bridge\DalamudMBBBridge\bin\Release\win-x64\System.CodeDom.dll
+C:\Yariman_Babel\MbbDalamud_bridge\DalamudMBBBridge\bin\Release\win-x64\System.Management.dll
+C:\Yariman_Babel\MbbDalamud_bridge\DalamudMBBBridge\bin\Release\win-x64\images\icon.png

@@ -1,0 +1,35 @@
+{
+  "Anuphan.ttf": {
+    "family_name": "Anuphan",
+    "subfamily": "Regular",
+    "full_name": "Anuphan Regular",
+    "postscript_name": "Anuphan-Regular",
+    "file_name": "Anuphan.ttf",
+    "supported_scripts": [
+      "Thai",
+      "Latin"
+    ]
+  },
+  "FC Minimal.ttf": {
+    "family_name": "FC Minimal",
+    "subfamily": "Medium Italic",
+    "full_name": "FC Minimal Medium Italic",
+    "postscript_name": "FCMinimalMediumItalic",
+    "file_name": "FC Minimal Medium Italic.ttf",
+    "supported_scripts": [
+      "Thai",
+      "Latin"
+    ]
+  },
+  "FC Minimal_1.ttf": {
+    "family_name": "FC Minimal",
+    "subfamily": "Medium Italic",
+    "full_name": "FC Minimal Medium Italic",
+    "postscript_name": "FCMinimalMediumItalic",
+    "file_name": "FC Minimal Medium Italic.ttf",
+    "supported_scripts": [
+      "Thai",
+      "Latin"
+    ]
+  }
+}

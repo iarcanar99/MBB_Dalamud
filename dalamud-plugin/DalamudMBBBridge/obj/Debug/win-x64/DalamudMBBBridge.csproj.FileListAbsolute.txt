@@ -1,0 +1,2 @@
+C:\Users\arcan\Documents\DalamudMBBBridge_PreReceiveEvent_Build\DalamudMBBBridge.deps.json
+C:\Users\arcan\Documents\DalamudMBBBridge_PreReceiveEvent_Build\DalamudMBBBridge.dll
